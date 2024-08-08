@@ -1,4 +1,5 @@
 ### Hi there 👋
 
 #### 🔭 Full Stack Web Developer.
-#### 📫 How to reach me: hilary.voegeli@gmail.com
+#### ⚡ I'm always up for a new challenge.
+#### 📫 Reach out: hilary.voegeli@gmail.com
